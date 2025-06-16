@@ -1,11 +1,11 @@
-# 🚀 GitHub DevOps Bootstrap Script
+#  GitHub DevOps Bootstrap Script
 
 A bash script to **instantly configure Git and GitHub access** on a fresh Linux system (VM, laptop, VPS, etc.).  
 Designed for **DevOps engineers**, developers, or anyone setting up a new OS.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This script:
 
@@ -18,7 +18,7 @@ This script:
 
 ---
 
-## 🔐 Why It Matters
+##  Why It Matters
 
 As a DevOps or developer, you often:
 
@@ -30,7 +30,7 @@ This script helps you get there in **a single command**.
 
 ---
 
-## ⚙️ Requirements
+## ⚙Requirements
 
 - Linux system (Debian/Ubuntu – others coming soon)
 - `sudo` privileges (for installing packages)
@@ -39,7 +39,7 @@ This script helps you get there in **a single command**.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-user/devops-bootstrap.git
